@@ -1,0 +1,3 @@
+1、one.html页面有一张图，做成图片超链接,点击后跳转到two.html页面
+2、two.html页面效果如图所示，点击下一页能跳转到three.html页面
+3、two.htm和three.html页面的返回链接要求都能返回到one.html页面
